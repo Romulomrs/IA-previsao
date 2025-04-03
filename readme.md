@@ -30,16 +30,6 @@ Statsmodels
 
 Jupyter Notebook
 
-📂 Estrutura do Projeto
-
-/
-|-- data/                     # 📂 Pasta contendo o dataset
-|-- notebooks/                # 📓 Notebooks Jupyter com exploração dos modelos
-|   |-- modelo_naive_bayes.ipynb
-|   |-- modelo_regressao_logistica.ipynb
-|   |-- modelo_regressao_linear.ipynb
-|-- README.md                 # 📖 Documentação do projeto
-
 🚀 Instalação e Uso
 
 Clone o repositório:
@@ -116,10 +106,13 @@ Comparativo entre os modelos para selecionar o melhor
 
 📚 Resultados:
 Naive Bayes:
+![Image](https://github.com/user-attachments/assets/2fb47cdc-3e97-4866-8ade-914d7350aac3)
 
 Regressão Linear:
-
+![Image](https://github.com/user-attachments/assets/c58714cd-cc74-4c27-b823-707a2fe6a274)
+![Image](https://github.com/user-attachments/assets/366a9231-2599-4e6a-a152-c136cc8b1c03)
 Regressão logística:
+![Image](https://github.com/user-attachments/assets/8f32d547-3ce6-4269-9cad-7eef1be7810e)
 
 
 
